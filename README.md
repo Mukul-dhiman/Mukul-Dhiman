@@ -1,6 +1,6 @@
 ### Hi there, I'm Mukul 👋
 
-I am a developer who is passionate about new things and love to build new technics to solve real life problems. Web App Dev, Compitative Progromming and Data science are the things i love to do the most. Few tech that I enjoy working in, are Python, C++, Javascript, and  Mysql. I play Hockey and Read/write fiction to entertain myself.
+I am a developer who is passionate about new things and love to build new technics to solve real life problems. Web App Dev, Competitive Programming and Data science are the things i love to do the most. Few languages that I enjoy working in, are Python, C++, Javascript, and  Mysql. I play Hockey and Read/write fiction to entertain myself.
 
 
 To connect with me,
